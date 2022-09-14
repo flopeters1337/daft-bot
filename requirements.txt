@@ -1,0 +1,2 @@
+daftlistings~=2.0.2
+selenium~=4.3.0
